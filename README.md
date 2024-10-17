@@ -45,5 +45,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 - [W3Resource Java Basic Exercises](https://www.w3resource.com/java-exercises/basic/index.php#editorr)
 
-Feel free to contribute by submitting issues or creating pull requests!
-```
