@@ -29,7 +29,7 @@ To compile and run the exercises, follow these steps:
 3. **Run a specific exercise**:
    Navigate to the specific exercise folder and run the corresponding Java file using your IDE or the command line:
    ```bash
-   mvn exec:java -Dexec.mainClass="com.knight.Exercise1"
+   mvn exec:java -Dexec.mainClass="ex001.app"
    ```
 
 ## Prerequisites
