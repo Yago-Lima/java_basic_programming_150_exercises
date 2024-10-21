@@ -1,4 +1,4 @@
-package ex015;
+package ex017;
 
 public class App {
     public static void main(String[] args) {
